@@ -4,8 +4,7 @@ import React from 'react'
 import Hero from '../Hero';
 import '../Hero/Hero.scss';
 import Philosophy from '../Philosophy';
-import '../Philosophy/Philosophy.scss';
-
+import '../Philosophy/Philosophy.scss'; 
 
 
 export default function App() {
