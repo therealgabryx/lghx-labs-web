@@ -1,9 +1,9 @@
 import React from 'react'
-import 'Hero.scss'
+import '../Hero/Hero.css'
 
 export default function Hero() {
     return (
-        <div> 
+        <div className="hero"> 
             Hero Component
         </div>
     )

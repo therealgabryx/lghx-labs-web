@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700;800;900&display=swap");
+:root {
+  --brand-background: rgba(252, 252, 252, 1);
+  --brand-color-darker: rgba(39, 32, 109, 1);
+  --brand-color-dark: rgba(94, 38, 111, 1);
+  --brand-color-light: rgba(149, 44, 111, 1);
+  --brand-color-lighter: rgba(204, 50, 112, 1);
+  --brand-footer: #202020;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+/*# sourceMappingURL=App.css.map */
